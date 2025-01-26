@@ -1,0 +1,48 @@
+[
+    {
+      "mood": "Joyeux",
+      "color": "#FFD700",
+      "emoji": "😊",
+      "quotes": [
+        "Le bonheur est une direction, pas une destination.",
+        "Souris à la vie, et elle te sourira en retour."
+      ]
+    },
+    {
+      "mood": "Triste",
+      "color": "#1E90FF",
+      "emoji": "😢",
+      "quotes": [
+        "Même les jours les plus sombres ont une fin.",
+        "L’espoir est une lumière dans l’obscurité."
+      ]
+    },
+    {
+      "mood": "Motivé",
+      "color": "#32CD32",
+      "emoji": "💪",
+      "quotes": [
+        "Ne rêve pas ta vie, vis tes rêves.",
+        "Chaque jour est une opportunité de devenir meilleur."
+      ]
+    },
+    {
+      "mood": "Calme",
+      "color": "#8A2BE2",
+      "emoji": "🧘",
+      "quotes": [
+        "Le calme est le maître de la force.",
+        "Respire, et laisse aller ce qui ne te sert plus."
+      ]
+    },
+    {
+      "mood": "Amoureux",
+      "color": "#FF69B4",
+      "emoji": "❤️",
+      "quotes": [
+        "L’amour n’a pas besoin d’être parfait, juste sincère.",
+        "Le cœur qui aime est toujours jeune."
+      ]
+    }
+  ]
+  
